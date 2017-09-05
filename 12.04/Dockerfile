@@ -1,4 +1,4 @@
-FROM nimmis/ubuntu:12.04
+FROM snscaimito/ubuntu:12.04
 
 MAINTAINER nimmis <kjell.havneskold@gmail.com>
 
